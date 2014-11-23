@@ -3,6 +3,8 @@ Timber integration
 
 [Timber](https://github.com/jarednova/timber) integration class for Papi
 
+It should be loaded after Timber is loaded.
+
 ## TimberImage
 
 Papi has already initialized the images with `TimberImage` class. So instead of writing this:
