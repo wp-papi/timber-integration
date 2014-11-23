@@ -1,4 +1,4 @@
 timber-integration
 ==================
 
-Timber integration class for Papi
+[Timber](https://github.com/jarednova/timber) integration class for Papi
