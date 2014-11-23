@@ -3,7 +3,7 @@ Timber integration
 
 [Timber](https://github.com/jarednova/timber) integration class for Papi
 
-It should be loaded after Timber is loaded.
+It should be loaded after Timber is loaded. Easiest is to load it in the themes function file.
 
 ## TimberImage
 
